@@ -184,6 +184,11 @@ _G.packer_plugins = {
     path = "/home/petterson/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
   },
+  ["vim-be-good"] = {
+    loaded = true,
+    path = "/home/petterson/.local/share/nvim/site/pack/packer/start/vim-be-good",
+    url = "https://github.com/ThePrimeagen/vim-be-good"
+  },
   ["vim-closer"] = {
     loaded = true,
     path = "/home/petterson/.local/share/nvim/site/pack/packer/start/vim-closer",
