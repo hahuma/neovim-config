@@ -12,7 +12,8 @@ require'nvim-treesitter.configs'.setup {
       "rust",
       "php",
       "go",
-      "html"
+      "html",
+      "css",
   },
 
   sync_install = false,
